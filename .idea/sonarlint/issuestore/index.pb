@@ -11,3 +11,5 @@ O
 tests/material-tracking.test.ts,7/2/723e49d34524dac09188ea108396ca48a77b4fa4
 H
 tests/inspection.test.ts,e/7/e79d3787ba27b38fcadab9c84d1bcbd08a524f6c
+P
+ contracts/material-tracking.clar,3/1/31ed6a8a5e7034d72166a21b1d93e9f60406a106
