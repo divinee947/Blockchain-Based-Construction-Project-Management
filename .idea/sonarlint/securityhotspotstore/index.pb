@@ -17,3 +17,7 @@ U
 %contracts/milestone-verification.clar,5/3/5324122c793e1c21fabc0123933033baaf442fbf
 T
 $tests/milestone-verification.test.ts,f/a/fa349c221ace19160fb0c3a1c401db16fa52a177
+M
+contracts/payment-escrow.clar,1/2/126378d0da4467c6a964f893b8bc05fc1b24b85b
+L
+tests/payment-escrow.test.ts,7/f/7fcb8b5dbe890b30261d54515fe853029b3946f3
