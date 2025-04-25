@@ -13,3 +13,7 @@ H
 tests/inspection.test.ts,e/7/e79d3787ba27b38fcadab9c84d1bcbd08a524f6c
 P
  contracts/material-tracking.clar,3/1/31ed6a8a5e7034d72166a21b1d93e9f60406a106
+U
+%contracts/milestone-verification.clar,5/3/5324122c793e1c21fabc0123933033baaf442fbf
+T
+$tests/milestone-verification.test.ts,f/a/fa349c221ace19160fb0c3a1c401db16fa52a177
