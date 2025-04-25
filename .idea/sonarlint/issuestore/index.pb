@@ -7,3 +7,7 @@ V
 &contracts/contractor-verification.clar,3/1/31598ea6d75bf0563633738f827c50863008f27e
 U
 %tests/contractor-verification.test.ts,7/6/7616f848745012e2576985d4a1ac3c6aece4b76d
+O
+tests/material-tracking.test.ts,7/2/723e49d34524dac09188ea108396ca48a77b4fa4
+H
+tests/inspection.test.ts,e/7/e79d3787ba27b38fcadab9c84d1bcbd08a524f6c
